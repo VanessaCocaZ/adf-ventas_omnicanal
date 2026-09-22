@@ -1,0 +1,15 @@
+{
+	"name": "adf-ucb-sisger-cc-9395400",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "803a6109-d1ea-4863-9f8b-1d3f9f246ce1",
+		"tenantId": "cc28633f-12b8-46cb-bc15-951dae239b4d"
+	}
+}
